@@ -18,7 +18,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <br>
 <hr>
 <br><br><br><br><br>
-<center><img src="images/cake.jpg" style="text-align: center;"></center>
+<center><img src="images/cake.jpg" style="text-align: center; height: 500px;width: 650px;"></center>
 <div style="text-align: center;">
 <h1>Ingredients:</h1>
 <ul>

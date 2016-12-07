@@ -17,25 +17,26 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <body style="background-color: #DFC8B4;">
 <br>
 <hr>
-<br><br><br>
-<center><img src="http://www.2createabody.com/images/grilled_steak.jpg" style="text-align: center;"></center>
+<br><br><br><br><br><br>
+<center><img src="http://www.2createabody.com/images/grilled_steak.jpg" style="text-align: center; height: 500px;width: 650px;"></center>
+<center>
 <h1>Ingredients:</h1>
 <ul>
-  <li>4 pieces top sirloin steaks or 4 pieces rib eye steaks</li>
-  <li>4 -6 teaspoons salt (depending on taste)</li>
-  <li>4 teaspoons paprika</li>
-  <li>2 teaspoons ground black pepper</li>
-  <li>1 teaspoon onion powder</li>
-  <li>1 teaspoon garlic powder</li>
-  <li>1 teaspoon cayenne pepper</li>
-  <li>1⁄2 teaspoon coriander</li>
-  <li>1⁄2 teaspoon turmeric</li>
+  <p>4 pieces top sirloin steaks or 4 pieces rib eye steaks</p>
+  <p>4 -6 teaspoons salt (depending on taste)</p>
+  <p>4 teaspoons paprika</p>
+  <p>2 teaspoons ground black pepper</p>
+  <p>1 teaspoon onion powder</p>
+  <p>1 teaspoon garlic powder</p>
+  <p>1 teaspoon cayenne pepper</p>
+  <p>1⁄2 teaspoon coriander</p>
+  <p>1⁄2 teaspoon turmeric</p>
 </ul>
 <br><hr>
 <h1>Directions:</h1>
 <p>Mix together seasoning ingredients and rub into each side of steak.
 Grill steaks on a large frying pan over medium-high heat; press down on steak with spatula or tongs to sear the edges.</p>
-
+</center>
 
 
 <!-- Sidenav (hidden by default) -->

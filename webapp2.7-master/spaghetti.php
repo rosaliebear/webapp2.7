@@ -17,20 +17,21 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <body style="background-color: #DFC8B4;">
 <br>
 <hr>
-<br><br><br>
-<center><img src="http://picz.in/data/media/8/Pasta-with-Pesto-and-Grilled-Chicken.jpg" style="text-align: center; height: 500px; width: 600px; "></center>
-
+<br><br><br><br><br><br>
+<center><img src="http://picz.in/data/media/8/Pasta-with-Pesto-and-Grilled-Chicken.jpg" style="text-align: center;height: 500px;width: 650px; "></center>
+<center>
 <h1>Ingredients:</h1>
 <ul>
-  <li>1/2 package (8 ounces) spaghetti, broken in half</li>
-  <li>1 egg</li>
-  <li>1/4 cup grated Parmesan cheese</li>
-  <li>1/4 cup shredded mozzarella cheese</li>
-  <li>1-3/4 cups marinara sauce, divided</li>
-  <li>12 frozen Italian Style Meatballs, thawed</li>
-  <li>1 tablespoon fresh chopped Basil</li>
-  <li>Additional Parmesan Cheese</li>
+  <p>1/2 package (8 ounces) spaghetti, broken in half</p>
+  <p>1 egg</p>
+  <p>1/4 cup grated Parmesan cheese</p>
+  <p>1/4 cup shredded mozzarella cheese</p>
+  <p>1-3/4 cups marinara sauce, divided</p>
+  <p>12 frozen Italian Style Meatballs, thawed</p>
+  <p>1 tablespoon fresh chopped Basil</p>
+  <p>Additional Parmesan Cheese</p>
 </ul>
+</center>
 <br><hr>
 <h1>Directions:</h1>
 <p>Preheat oven to 400°F.Cook spaghetti according to package directions. Rinse with cool water and drain.

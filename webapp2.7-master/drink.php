@@ -18,16 +18,18 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <br>
 <hr>
 <br><br><br>
-<center><img src="http://www.magic4walls.com/wp-content/uploads/2016/03/pieces-of-watermelon-and-raspberry-in-cocktail-glass-next-to-watermelon-slices-694x417.jpg" style="text-align: center;"></center>
+<center><img src="http://www.magic4walls.com/wp-content/uploads/2016/03/pieces-of-watermelon-and-raspberry-in-cocktail-glass-next-to-watermelon-slices-694x417.jpg" style="text-align: center; height: 500px;width: 650px;"></center>
+<center>
 <h1>Ingredients:</h1>
 <ul>
-  <li>12 ounces raspberries (about 2 1/2 cups)</li>
-  <li>2 cups dry red wine</li>
-  <li>1/2 cup Brandy</li>
-  <li>1 whole vanilla bean, split and scraped, seeds and pod reserved</li>
-  <li>1 tablespoon zest from 1 lemon</li>
-  <li>1 cup sugar</li>
+  <p>12 ounces raspberries (about 2 1/2 cups)</p>
+  <p>2 cups dry red wine</p>
+  <p>1/2 cup Brandy</p>
+  <p>1 whole vanilla bean, split and scraped, seeds and pod reserved</p>
+  <p>1 tablespoon zest from 1 lemon</p>
+  <p>1 cup sugar</p>
 </ul>
+</center>
 <br><hr>
 <h1>Directions:</h1>
 <p>Place the raspberries in a sealable glass jar and mash them with a spoon or muddler until just broken up enough to release juice. Add wine, seal, and shake the jar. Let steep for 2 days.
