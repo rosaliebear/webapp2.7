@@ -14,23 +14,24 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 </style>
 
 </head>
-<body>
+<body style="background-color: #DFC8B4;">
 <br>
 <hr>
-<br><br><br>
-<center><img src="http://www.splendry.com/wp-content/uploads/2016/04/Spaghetti-Muffins-cover-1-702x336.jpg" style="text-align: center;"></center>
-
+<br><br><br><br><br><br>
+<center><img src="http://picz.in/data/media/8/Pasta-with-Pesto-and-Grilled-Chicken.jpg" style="text-align: center;height: 500px;width: 650px; "></center>
+<center>
 <h1>Ingredients:</h1>
 <ul>
-  <li>1/2 package (8 ounces) spaghetti, broken in half</li>
-  <li>1 egg</li>
-  <li>1/4 cup grated Parmesan cheese</li>
-  <li>1/4 cup shredded mozzarella cheese</li>
-  <li>1-3/4 cups marinara sauce, divided</li>
-  <li>12 frozen Italian Style Meatballs, thawed</li>
-  <li>1 tablespoon fresh chopped Basil</li>
-  <li>Additional Parmesan Cheese</li>
+  <p>1/2 package (8 ounces) spaghetti, broken in half</p>
+  <p>1 egg</p>
+  <p>1/4 cup grated Parmesan cheese</p>
+  <p>1/4 cup shredded mozzarella cheese</p>
+  <p>1-3/4 cups marinara sauce, divided</p>
+  <p>12 frozen Italian Style Meatballs, thawed</p>
+  <p>1 tablespoon fresh chopped Basil</p>
+  <p>Additional Parmesan Cheese</p>
 </ul>
+</center>
 <br><hr>
 <h1>Directions:</h1>
 <p>Preheat oven to 400°F.Cook spaghetti according to package directions. Rinse with cool water and drain.
@@ -42,7 +43,7 @@ Carefully remove the baked spaghetti nests from the muffin pan and place on a se
 
 
 <!-- Sidenav (hidden by default) -->
-<nav class="w3-sidenav w3-card-2 w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:20%;min-width:300px;background-color:#20A4F3;" id="mySidenav">
+<nav class="w3-sidenav w3-card-2 w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:15%;height:200%; min-width:300px;background-image: url('images/yumm.png'); background-repeat: no-repeat; color: white;" id="mySidenav">
   <a href="javascript:void(0)" onclick="w3_close()"
   class="w3-closenav">Close Menu</a>
   <a href="index.php" onclick="w3_close()">Recipe Me</a>
@@ -52,21 +53,24 @@ Carefully remove the baked spaghetti nests from the muffin pan and place on a se
 
 <!-- Top menu -->
 <div class="w3-top">
-  <div class="w3-#C1CFDA w3-xlarge w3-padding-xlarge" style="max-width:1200px;margin:auto;background-color:#C1CFDA;">
+  <div class="w3-#C1CFDA w3-xlarge w3-padding-xlarge" style="max-width:1900px;margin:auto;background-color:#DD0B0B;color: black;">
     <div class="w3-opennav w3-left w3-hover-text-grey" onclick="w3_open()">&#9776;</div>
-    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="150" height="90"></a></div>
+    <div class="w3-right">
+      
+
+    </div>
+    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="150" height="150"></a></div>
   </div>
 </div>
-
 <!-- Footer -->
-  <footer class="w3-center w3-#C1CFDA w3-padding-64" style="background-color:#C1CFDA">
-  <div class="w3-xlarge" style="background-color:#C1CFDA;">
+  <footer class="w3-center w3-#C1CFDA w3-padding-64" style="background-color:#526D2E;max-width:1900px;margin:auto;">
+  <div class="w3-xlarge" style="background-color:#526D2E;color: black;">
     <a href="https://www.facebook.com/" class="w3-hover-text-indigo"><i class="fa fa-facebook-official"></i></a>
     <a href="https://www.pinterest.com/" class="w3-hover-text-red"><i class="fa fa-pinterest-p"></i></a>
     <a href="#" class="w3-hover-text-light-blue"><i class="fa fa-twitter"></i></a>
     <a href="https://twitter.com/" class="w3-hover-text-grey"><i class="fa fa-flickr"></i></a>
     <a href="https://www.linkedin.com/" class="w3-hover-text-indigo"><i class="fa fa-linkedin"></i></a>
-    <a href="spaghetti.php" class="w3-hover-text-red" title="Go to top"><i class="fa fa-arrow-up"></i></a>
+    <a href="login.php" class="w3-hover-text-red" title="Go to top"><i class="fa fa-arrow-up"></i></a>
   </div>
   
 </footer>
