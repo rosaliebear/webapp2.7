@@ -30,14 +30,14 @@
       
 
     </div>
-    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="150" height="150"></a></div>
+    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="350" height="200"></a></div>
   </div>
 </div>
 
 <form action="postprocess.php" enctype='multipart/form-data' method="post">
   <div class="imgcontainer">
   <br>
-  <br><br><br><br><br>
+  <br><br><br><br><br><br><br>
     <img src="https://cdn4.iconfinder.com/data/icons/people-of-service/512/People_Services_chef_woman-512.png" alt="Avatar" class="avatar">
   </div>
   <center>

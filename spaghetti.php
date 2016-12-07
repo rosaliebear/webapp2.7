@@ -59,7 +59,7 @@ Carefully remove the baked spaghetti nests from the muffin pan and place on a se
       
 
     </div>
-    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="150" height="150"></a></div>
+    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="350" height="200"></a></div>
   </div>
 </div>
 <!-- Footer -->

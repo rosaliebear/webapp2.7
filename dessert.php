@@ -65,7 +65,7 @@ Before serving, whisk remaining 1/4 cup cream in a small bowl until soft peaks f
       
 
     </div>
-    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="150" height="150"></a></div>
+    <div class="w3-center"><a href="index.php"><img src="logo2.png"width="350" height="200"></a></div>
   </div>
 </div>
 

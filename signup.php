@@ -52,11 +52,11 @@ $(document).ready(function(){
       
 
     </div>
-    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="150" height="150"></a></div>
+    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="350" height="200"></a></div>
   </div>
 </div>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
  <div class="main-content">
         <!-- You only need this form and the form-basic.css -->
         <form class="form-basic" method="post" action="postprocess.php" enctype ='multipart/form-data' style="background-color: #DFC8B4;">
@@ -97,7 +97,7 @@ $(document).ready(function(){
 <center>
 <label>Photo:
 </center>  
-  <input style="border: 2px solid #000000"; type="file" name="photo"><br>
+  <input style="border: 2px solid #000000; background-color:#DFC8B4;"; type="file" name="photo"><br>
 </label>
 </center>
 <br>
@@ -105,7 +105,7 @@ $(document).ready(function(){
            
                 <center>
                 <label>
-                    <span>I agree to the terms and conditions</a></span>
+                    <span style="color: maroon;">I agree to the terms and conditions</a></span>
                     <input type="checkbox" name="checkbox" checked>
                 </label>
                 </center>

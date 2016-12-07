@@ -41,14 +41,14 @@
       
 
     </div>
-    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="150" height="150"></a></div>
+    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="350" height="200"></a></div>
   </div>
 </div>
   
 <!-- !PAGE CONTENT! -->
 
 <div class="container">
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br>
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">

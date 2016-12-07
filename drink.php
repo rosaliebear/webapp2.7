@@ -59,7 +59,7 @@ Strain brandy through fine mesh strainer lined with cheesecloth. Combine infused
       
 
     </div>
-    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="150" height="150"></a></div>
+    <div class="w3-center"><a href="index.php"><img src="logo2.png" width="350" height="200"></a></div>
   </div>
 </div>
 
